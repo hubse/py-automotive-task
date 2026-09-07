@@ -46,6 +46,7 @@ Architecture
 
 Project Structure
 
+```text
 order_automation/
 │
 ├── pyproject.toml
@@ -91,7 +92,7 @@ order_automation/
     ├── orders/
     ├── reports/
     └── tmp/
-
+```
 
 Requirements
 
