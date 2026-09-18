@@ -132,7 +132,7 @@ data/orders/
 ├── order_001.txt
 ├── order_002.txt
 └── order_003.txt
-```text
+```
 
 Expected format:
 Customer: Ali
