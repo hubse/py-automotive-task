@@ -125,8 +125,6 @@ Input Files
 Place order files in:
 data/orders/
 
-Example:
-
 ```text
 data/orders/
 ├── order_001.txt
