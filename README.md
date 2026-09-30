@@ -98,8 +98,9 @@ Requirements
 
 Python 3.11+
 pip or uv
-Access to the shipping API
-SMTP credentials for sending email
+shipping API access
+valid SMTP configurations
+
 Setup
 
 1. Clone the repository
@@ -110,11 +111,9 @@ cd order_automation
 python -m venv .venv
 
 Activate it on Windows:
-
 .venv\Scripts\activate
 
 macOS/Linux:
-
 source .venv/bin/activate
 
 3. Install dependencies
